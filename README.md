@@ -1,9 +1,9 @@
 gwwFramework
 ============
 This framework is made for webpages no matter how big or small. The structure is quite simple:
-webapp/ <= Your application.
-framework/ <= The framework.
-htdocs/ <= public dir
+* webapp/ <= Your application.
+* framework/ <= The framework.
+* htdocs/ <= public dir
 
 All of these three folders can be in completely different other folders. So multiple webapps can share one
 framework without any problems.
