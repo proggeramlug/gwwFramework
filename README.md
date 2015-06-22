@@ -1,5 +1,8 @@
 gwwFramework
 ============
+ATTENTION: This framework is not supported anymore. We used it for over 5 years and it served us well. We developed a new framework called "skelpo framework" which will be published soon. 
+
+
 This framework is made for webpages no matter how big or small. The structure is quite simple:
 * webapp/ <= Your application.
 * framework/ <= The framework.
